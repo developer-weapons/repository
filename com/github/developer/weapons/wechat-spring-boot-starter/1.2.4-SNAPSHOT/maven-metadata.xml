@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.github.developer.weapons</groupId>
+  <artifactId>wechat-spring-boot-starter</artifactId>
+  <version>1.2.4-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20200920.070101</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20200920070101</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.2.4-20200920.070101-1</value>
+        <updated>20200920070101</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.2.4-20200920.070101-1</value>
+        <updated>20200920070101</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

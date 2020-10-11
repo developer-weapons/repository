@@ -17,7 +17,7 @@
     <distributionManagement>
         <repository>
             <id>developer-weapons-repository</id>
-            <url>/Users/codedrinker/Code/developer-weapons-repository</url>
+            <url>developer-weapons-repository</url>
         </repository>
     </distributionManagement>
     <dependencies>
